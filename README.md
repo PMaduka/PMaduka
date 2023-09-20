@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PMaduka
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Frontend Web Development and Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning web development skills
 - 📫 Reach me at promisemaduka14@gmail.com
 
 <!---
