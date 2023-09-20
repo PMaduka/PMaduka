@@ -2,7 +2,7 @@
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Frontend Web Development and Data Analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at promisemaduka14@gmail.com
 
 <!---
 PMaduka/PMaduka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
